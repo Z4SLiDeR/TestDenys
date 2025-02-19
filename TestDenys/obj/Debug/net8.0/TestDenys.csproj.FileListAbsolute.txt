@@ -1,0 +1,13 @@
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\bin\Debug\net8.0\TestDenys.deps.json
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\bin\Debug\net8.0\TestDenys.dll
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\bin\Debug\net8.0\TestDenys.pdb
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.csproj.AssemblyReference.cache
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.AssemblyInfoInputs.cache
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.AssemblyInfo.cs
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\XamlC.stamp
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.dll
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\refint\TestDenys.dll
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\TestDenys.pdb
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\obj\Debug\net8.0\ref\TestDenys.dll

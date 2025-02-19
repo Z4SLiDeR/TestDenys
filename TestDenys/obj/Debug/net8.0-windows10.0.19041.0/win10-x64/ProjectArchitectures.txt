@@ -1,0 +1,1 @@
+C:\Users\Jerem\RiderProjects\TestDenys\TestDenys\TestDenys.csproj;x64
